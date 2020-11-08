@@ -1,4 +1,4 @@
-# praktikum7
+# pertemuan 7_lab3
 
 Repository ini dibuat untuk memenuhi tugas Dosen pertemuan 7 - lab 3
 
