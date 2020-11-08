@@ -17,7 +17,8 @@ Pada repository ini saya mendapatkan tugas dari dosen bahasa pemrograman pada la
 * **latihan 1**
 
 Pada latihan 1 saya akan membuat program dengan perulangan bertingkat **(nested)** for : <br>
-
+ ***(nested)*** for : <br>
+![Tugas_Latihan1_lab3](picture/Tugas_Latihan1.PNG)
 
 <br>
 
