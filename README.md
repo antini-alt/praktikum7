@@ -50,7 +50,7 @@ Pada source code tersebut akan menghasilkan Output : <br>
 * **latihan 2** 
 
 Pada latihan 2 saya akan membuat program tampilan ***n*** bilangan acak yang lebih kecil dari 0.5. <br>
-![tugas_latihan2](picture/)
+![tugas_latihan2](picture/Tugas_latihan2.PNG)
 <br>
 Pada tugas tersebut saya menggunakan kombinasi ***(import random dan uniform)***, dengan source code sebagai berikut atau pada link 
 [link_latihn2](lab3_)
